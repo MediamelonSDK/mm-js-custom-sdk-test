@@ -1,0 +1,19 @@
+{
+  "name": "mediamelon-js-custom-sdk-test",
+  "version": "1.1.1",
+  "description": "MediaMelon JS Custom QoE SDK",
+  "main": "mmsmartstreamingsdk.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MediamelonSDK/mm-js-custom-sdk-test.git"
+  },
+  "author": "mediamelon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MediamelonSDK/mm-js-custom-sdk-test/issues"
+  },
+  "homepage": "https://github.com/MediamelonSDK/mm-js-custom-sdk-test#readme"
+}
